@@ -1,2 +1,6 @@
 # hello-world
-test setup repo
+---------------------------------
+test setup for test git repo.
+Not meant for distribution
+
+Greetings!
